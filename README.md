@@ -51,8 +51,9 @@ text
   [Q] Quitter
 
 Mode Turbo (direct sans menu)
-powershell
+
 .\muse-stream-audio.ps1 -Turbo -Url "https://youtube.com/watch?v=..."
 ```
-💚 Licence
+
+## 💚 Licence
 MIT License - voir le fichier LICENSE
